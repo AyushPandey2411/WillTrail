@@ -2,7 +2,7 @@
 
 A full-stack web application that lets people store their medical information securely and generate an emergency QR card — so first responders always have what they need, instantly.
 
-Live demo → `coming soon`
+Live demo → https://willtrail.vercel.app
 
 ---
 
